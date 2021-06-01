@@ -17,3 +17,6 @@ Step 3: Test it
 
 Step 4: Investigate
 - Look through the html, css, and js file (no need to looks at the jquery one)
+- What code is new to you?  What code is similar to java?  What pieces of the code are you not sure how it works?  FIll in the google form with specific details.
+- Here is a decent list of free APIs with a wide range of topics (https://github.com/public-apis/public-apis) start by choosing one that doesn't use api-keys or oauth that way you don't have to sign up for anything
+- Look through and try at least 3 different pulls, screenshot your results and attach them to the assignment.
