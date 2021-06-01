@@ -1,5 +1,6 @@
 async function runAPIQuery(){
     const url = 'https://api.coindesk.com/v1/bpi/currentprice.json'
+    //Test at least 3 different Api's
 
     const initObject = {
         method: 'GET'
